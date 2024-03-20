@@ -1,3 +1,5 @@
+package BruhRepos;
+
 import java.util.Scanner;
 
 public class Program {
@@ -6,6 +8,12 @@ public class Program {
         choose.output();
         Scanner in = new Scanner(System.in);
         int number = in.nextInt();
+		if(number == 1){
+			rectangle rectangle = new rectangle();
+            rectangle.width = in.nextDouble();
+            rectangle.height = in.nextDouble();
+            rectangle.pOutput();
+		}
     }
 }
 class menu {
