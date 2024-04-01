@@ -1,3 +1,4 @@
+
 public class rectangle {
 	
     double width;
