@@ -1,4 +1,4 @@
-package BruhRepos;
+
 
 public class rectangle {
 	double width;

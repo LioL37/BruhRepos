@@ -1,4 +1,4 @@
-package BruhRepos;
+
 
 
 import java.util.Scanner;
